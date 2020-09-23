@@ -1,3 +1,4 @@
+data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi,note
 2020-02-24T18:00:00,ITA,12,Lazio,056,Viterbo,VT,42.4173828,12.10473416,0,
 2020-02-25T18:00:00,ITA,12,Lazio,056,Viterbo,VT,42.4173828,12.10473416,0,
 2020-02-26T18:00:00,ITA,12,Lazio,056,Viterbo,VT,42.4173828,12.10473416,0,

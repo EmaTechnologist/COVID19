@@ -25,8 +25,8 @@ cd /home/emaserver/DISK1/JUPYTER/COVID19/COVID19_DATA
 /home/emaserver/DISK1/JUPYTER/COVID19/BIN/covid_provincia.sh
 
 #seleziona i dati per la provincia di viterbo
-
-cat covid19_ita_province.csv | grep VT > covid19_viterbo.csv
+echo "data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi,note" > covid19_viterbo.csv
+cat covid19_ita_province.csv | grep VT >> covid19_viterbo.csv
 
 
 echo ___ all done download, elaboration ...
