@@ -1,1 +1,1 @@
-Thu Oct 22 00:00:01 UTC 2020 COVID19 ITALIA https://github.com/pcm-dpc/COVID-19
+Fri Oct 23 00:00:01 UTC 2020 COVID19 ITALIA https://github.com/pcm-dpc/COVID-19
